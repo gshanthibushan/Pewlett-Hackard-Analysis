@@ -34,11 +34,13 @@ to create database using pgAdmin.
   ![image](https://user-images.githubusercontent.com/79486450/115176724-ad221880-a09b-11eb-99ba-5bb79c011398.png)
   
 ## Summary:
-The query resulted the following:
-Senior Engineer - 29,414
+The query resulted the following list of trade of employees are available to mentor the new hires:
+Senior Engineer - 29,414 
 Senior Staff - 28,254 
 Engineer - 14,222
 Staff - 12,243
 Technique Leader - 4,502
 Assistant Engineer - 1,761
 Manager - 2
+
+Also, it indicating based on the population higher amount senior engineering retiring.
