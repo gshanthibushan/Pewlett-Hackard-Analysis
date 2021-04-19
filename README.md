@@ -15,7 +15,8 @@ to create database using pgAdmin.
 ## Results:
 
 1.  ERD
-    *![EmployeeDB png](https://user-images.githubusercontent.com/79486450/115176163-8d3e2500-a09a-11eb-9ce2-b7d56600ce92.png)
+
+![EmployeeDB png](https://user-images.githubusercontent.com/79486450/115176163-8d3e2500-a09a-11eb-9ce2-b7d56600ce92.png)
     
     
     
@@ -33,14 +34,14 @@ to create database using pgAdmin.
 * Result csv file: retirement_titles.csv
 * ![image](https://user-images.githubusercontent.com/79486450/115176391-03428c00-a09b-11eb-94c5-959e918baedd.png)
   
-    * Result csv file: unique_titles.csv
-    ![image](https://user-images.githubusercontent.com/79486450/115176444-1c4b3d00-a09b-11eb-9a42-b13214770aed.png)
+* Result csv file: unique_titles.csv
+![image](https://user-images.githubusercontent.com/79486450/115176444-1c4b3d00-a09b-11eb-9a42-b13214770aed.png)
   
-    * Result csv file: retiring_titles.csv
-    ![image](https://user-images.githubusercontent.com/79486450/115176481-3127d080-a09b-11eb-8b0a-9eac01059088.png)
+* Result csv file: retiring_titles.csv
+![image](https://user-images.githubusercontent.com/79486450/115176481-3127d080-a09b-11eb-8b0a-9eac01059088.png)
 
 3. The Employees Eligible for the Mentorship Program
-    * Result csv file: mentorship_eligibilty.csv
-    ![image](https://user-images.githubusercontent.com/79486450/115176724-ad221880-a09b-11eb-99ba-5bb79c011398.png)
+* Result csv file: mentorship_eligibilty.csv
+![image](https://user-images.githubusercontent.com/79486450/115176724-ad221880-a09b-11eb-99ba-5bb79c011398.png)
   
 ## Summary:
