@@ -20,10 +20,18 @@ to create database using pgAdmin.
     
     
     
+    
+    
+    
+    
+    
+    
+    
+    
 
 2.  The Number of Retiring Employees by Title 
-    * Result csv file: retirement_titles.csv
-    ![image](https://user-images.githubusercontent.com/79486450/115176391-03428c00-a09b-11eb-94c5-959e918baedd.png)
+* Result csv file: retirement_titles.csv
+* ![image](https://user-images.githubusercontent.com/79486450/115176391-03428c00-a09b-11eb-94c5-959e918baedd.png)
   
     * Result csv file: unique_titles.csv
     ![image](https://user-images.githubusercontent.com/79486450/115176444-1c4b3d00-a09b-11eb-9a42-b13214770aed.png)
